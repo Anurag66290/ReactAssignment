@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background: #f8f9fa;
+  
+}
+
+.heading{
+  text-align: center;
+  width: 100%;
+  margin:20px
+}
+
+.listImage {
+  width: 100%;
+}
